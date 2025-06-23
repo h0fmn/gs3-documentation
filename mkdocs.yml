@@ -1,4 +1,5 @@
 site_name: GLBB Japan | GS3SFP-232-GE
+site_url: https://h0fmn.github.io/gs3-documentation/
 
 theme:
   name: material
@@ -26,6 +27,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-        
+
 nav:
   - Home: index.md
+  - About: about.md
