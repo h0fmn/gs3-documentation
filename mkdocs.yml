@@ -7,6 +7,25 @@ theme:
     - navigation.sections
     - search.highlight
     - search.suggest
-
+    - content.code.copy
+    - content.code.annotate
+    - navigation.instant
+    - palette.toggle
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+        
 nav:
   - Home: index.md
