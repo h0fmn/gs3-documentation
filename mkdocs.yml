@@ -30,4 +30,9 @@ theme:
 
 nav:
   - Home: index.md
+  - User Guide:
+      - Overview: user_guide/index.md
+  - Serial Commands:
+      - Overview: serial_commands/index.md
+      - serial show: serial_commands/serial_show.md
   - About: about.md
