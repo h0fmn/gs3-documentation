@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env
+.env.*
+
+# MkDocs cache
+site/
+
+# Editor configs
+.vscode/
+.idea/
+
+*.pem
+*.key
+*.crt
