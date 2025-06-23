@@ -28,11 +28,22 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+plugins:
+  - i18n:
+      default_language: en
+      languages:
+        en: English
+        ja: 日本語
+
 nav:
-  - Home: index.md
-  - User Guide:
-      - Overview: user_guide/index.md
-  - Serial Commands:
-      - Overview: serial_commands/index.md
-      - serial show: serial_commands/serial_show.md
-  - About: about.md
+  en:
+    - Home: index.md
+    - User Guide:
+        - Overview: user_guide/index.md
+    - Serial Commands:
+        - Overview: serial_commands/index.md
+        - Serial show: serial_commands/serial_show.md
+    - About: about.md
+
+  ja:
+    - ホーム: ja/index.md
