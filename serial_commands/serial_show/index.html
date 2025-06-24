@@ -14,7 +14,7 @@
         <link rel="prev" href="../">
       
       
-        <link rel="next" href="../../about/">
+        <link rel="next" href="../serial_baudrate/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -227,18 +227,17 @@
   
   
   
-    
-    
-      <li class="md-tabs__item">
-        <a href="../../user_guide/index.md" class="md-tabs__link">
-          
+    <li class="md-tabs__item">
+      <a href="../../features/" class="md-tabs__link">
+        
   
   
-  User Guide
+    
+  
+  Key Features
 
-        </a>
-      </li>
-    
+      </a>
+    </li>
   
 
       
@@ -344,69 +343,18 @@
   
   
   
-    
-    
-    
-    
-      
-      
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
-        
-          
-          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    User Guide
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_2">
-            <span class="md-nav__icon md-icon"></span>
-            User Guide
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
     <li class="md-nav__item">
-      <a href="../../user_guide/index.md" class="md-nav__link">
+      <a href="../../features/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
-    Overview
+    Key Features
     
   </span>
   
 
       </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
     </li>
   
 
@@ -498,6 +446,19 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    serial show
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -510,6 +471,89 @@
 
       </a>
       
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#description" class="md-nav__link">
+    <span class="md-ellipsis">
+      Description
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example" class="md-nav__link">
+    <span class="md-ellipsis">
+      Example
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../serial_baudrate/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    serial baudrate
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../serial_datasize/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    serial datasize
+    
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -564,6 +608,32 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#description" class="md-nav__link">
+    <span class="md-ellipsis">
+      Description
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example" class="md-nav__link">
+    <span class="md-ellipsis">
+      Example
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -579,6 +649,20 @@
 
 
 <h1 id="serial-show"><code>serial show</code></h1>
+<h4 id="description">Description</h4>
+<p>Displays the current serial configuration.</p>
+<h4 id="example">Example</h4>
+<pre><code>[admin@ssh-to-serial]&gt;serial show
+UART Config - Base：0x4000D000
+ Clock：120000000 Hz
+ Baud：115200
+ Data Size：8
+ Parity：N
+ Stop Bits：1
+ Flow Control：N
+ Transmit Delay：0 ms
+Current configuration displayed.
+</code></pre>
 
 
 
