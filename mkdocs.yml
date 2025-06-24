@@ -1,5 +1,5 @@
 site_name: GLBB Japan | GS3SFP-232-GE
-site_url: https://h0fmn.github.io/gs3-documentation/
+site_url: https://h0fmn.github.io/gs3-documentation
 
 theme:
   name: material
@@ -59,17 +59,17 @@ plugins:
           name: 日本語
           build: true
           nav:
-            - ホーム: jp/index.md
-            - 主な機能: jp/features.md
+            - ホーム: ja/index.md
+            - 主な機能: ja/features.md
             - シリアルコマンド:
-                - 概要: jp/serial_commands/index.md
-                - serial show: jp/serial_commands/serial_show.md
-                - serial baudrate: jp/serial_commands/serial_baudrate.md
-                - serial datasize: jp/serial_commands/serial_datasize.md
-                - serial parity: jp/serial_commands/serial_parity.md
-                - serial stopbits: jp/serial_commands/serial_stopbits.md
-                - serial exitkey: jp/serial_commands/serial_exitkey.md
+                - 概要: ja/serial_commands/index.md
+                - serial show: ja/serial_commands/serial_show.md
+                - serial baudrate: ja/serial_commands/serial_baudrate.md
+                - serial datasize: ja/serial_commands/serial_datasize.md
+                - serial parity: ja/serial_commands/serial_parity.md
+                - serial stopbits: ja/serial_commands/serial_stopbits.md
+                - serial exitkey: ja/serial_commands/serial_exitkey.md
             - ネットワークコマンド:
-                - 概要: jp/network_commands/index.md
-                - network show: jp/network_commands/network_show.md
-            - About: jp/about.md
+                - 概要: ja/network_commands/index.md
+                - network show: ja/network_commands/network_show.md
+            - について: ja/about.md
