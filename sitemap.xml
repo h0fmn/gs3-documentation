@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://h0fmn.github.io/gs3-documentation/</loc>
-         <lastmod>2025-06-23</lastmod>
+         <lastmod>2025-06-24</lastmod>
     </url>
     <url>
          <loc>https://h0fmn.github.io/gs3-documentation/about/</loc>
-         <lastmod>2025-06-23</lastmod>
+         <lastmod>2025-06-24</lastmod>
     </url>
     <url>
          <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/</loc>
-         <lastmod>2025-06-23</lastmod>
+         <lastmod>2025-06-24</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/serial_baudrate/</loc>
+         <lastmod>2025-06-24</lastmod>
     </url>
     <url>
          <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/serial_show/</loc>
-         <lastmod>2025-06-23</lastmod>
+         <lastmod>2025-06-24</lastmod>
     </url>
 </urlset>
