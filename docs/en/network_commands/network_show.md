@@ -1,7 +1,7 @@
 # `network show`
 
 ### Description
-Displays the current serial configuration.
+Displays the current network configuration.
 
 ### Example
 ```

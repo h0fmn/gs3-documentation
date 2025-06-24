@@ -12,6 +12,8 @@ theme:
     - content.code.annotate
     - navigation.instant
     - palette.toggle
+    - i18n
+
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -27,19 +29,47 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-        
-nav:
-    - Home: index.md
-    - Key Features: features.md
-    - Serial Commands:
-        - Overview: serial_commands/index.md
-        - serial show: serial_commands/serial_show.md
-        - serial baudrate: serial_commands/serial_baudrate.md
-        - serial datasize: serial_commands/serial_datasize.md
-        - serial parity: serial_commands/serial_parity.md
-        - serial stopbits: serial_commands/serial_stopbits.md
-        - serial exitkey: serial_commands/serial_exitkey.md
-    - Network Commands:
-      - Overview: network_commands/index.md
-      - network show: network_commands/network_show.md
-    - About: about.md
+
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+          nav:
+            - Home: en/index.md
+            - Key Features: en/features.md
+            - Serial Commands:
+                - Overview: en/serial_commands/index.md
+                - serial show: en/serial_commands/serial_show.md
+                - serial baudrate: en/serial_commands/serial_baudrate.md
+                - serial datasize: en/serial_commands/serial_datasize.md
+                - serial parity: en/serial_commands/serial_parity.md
+                - serial stopbits: en/serial_commands/serial_stopbits.md
+                - serial exitkey: en/serial_commands/serial_exitkey.md
+            - Network Commands:
+                - Overview: en/network_commands/index.md
+                - network show: en/network_commands/network_show.md
+            - About: en/about.md
+
+        - locale: ja
+          name: 日本語
+          build: true
+          nav:
+            - ホーム: jp/index.md
+            - 主な機能: jp/features.md
+            - シリアルコマンド:
+                - 概要: jp/serial_commands/index.md
+                - serial show: jp/serial_commands/serial_show.md
+                - serial baudrate: jp/serial_commands/serial_baudrate.md
+                - serial datasize: jp/serial_commands/serial_datasize.md
+                - serial parity: jp/serial_commands/serial_parity.md
+                - serial stopbits: jp/serial_commands/serial_stopbits.md
+                - serial exitkey: jp/serial_commands/serial_exitkey.md
+            - ネットワークコマンド:
+                - 概要: jp/network_commands/index.md
+                - network show: jp/network_commands/network_show.md
+            - About: jp/about.md
