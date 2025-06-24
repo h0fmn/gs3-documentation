@@ -30,9 +30,10 @@ theme:
         
 nav:
     - Home: index.md
-    - User Guide:
-        - Overview: user_guide/index.md
+    - Key Features: features.md
     - Serial Commands:
         - Overview: serial_commands/index.md
         - serial show: serial_commands/serial_show.md
+        - serial baudrate: serial_commands/serial_baudrate.md
+        - serial datasize: serial_commands/serial_datasize.md
     - About: about.md
