@@ -34,5 +34,5 @@ nav:
         - Overview: user_guide/index.md
     - Serial Commands:
         - Overview: serial_commands/index.md
-        - Serial show: serial_commands/serial_show.md
+        - serial show: serial_commands/serial_show.md
     - About: about.md
