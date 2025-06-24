@@ -36,4 +36,6 @@ nav:
         - serial show: serial_commands/serial_show.md
         - serial baudrate: serial_commands/serial_baudrate.md
         - serial datasize: serial_commands/serial_datasize.md
+        - serial parity: serial_commands/serial_parity.md
+        - serial stopbits: serial_commands/serial_stopbits.md
     - About: about.md
