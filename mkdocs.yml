@@ -38,4 +38,8 @@ nav:
         - serial datasize: serial_commands/serial_datasize.md
         - serial parity: serial_commands/serial_parity.md
         - serial stopbits: serial_commands/serial_stopbits.md
+        - serial exitkey: serial_commands/serial_exitkey.md
+    - Network Commands:
+      - Overview: network_commands/index.md
+      - network show: network_commands/network_show.md
     - About: about.md
