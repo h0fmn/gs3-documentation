@@ -8,13 +8,9 @@
       
       
       
-        <link rel="canonical" href="https://h0fmn.github.io/gs3-documentation/serial_commands/serial_show/">
+        <link rel="canonical" href="https://h0fmn.github.io/gs3-documentation/serial_commands/serial_delay-crlf/">
       
       
-        <link rel="prev" href="../">
-      
-      
-        <link rel="next" href="../serial_baudrate/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -22,7 +18,7 @@
     
     
       
-        <title>serial show - GLBB Japan | GS3SFP-232-GE</title>
+        <title>serial delay-crlf - GLBB Japan | GS3SFP-232-GE</title>
       
     
     
@@ -74,7 +70,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#serial-show" class="md-skip">
+        <a href="#serial-delay-crlf" class="md-skip">
           Skip to content
         </a>
       
@@ -108,7 +104,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              serial show
+              serial delay-crlf
             
           </span>
         </div>
@@ -245,12 +241,10 @@
   
   
   
-    
-  
   
     
     
-      <li class="md-tabs__item md-tabs__item--active">
+      <li class="md-tabs__item">
         <a href="../" class="md-tabs__link">
           
   
@@ -383,31 +377,26 @@
       
   
   
-    
   
   
-  
     
     
     
     
-      
-        
-        
       
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
         
           
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
             
   
   
@@ -420,7 +409,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             Serial Commands
@@ -454,32 +443,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    serial show
-    
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../serial_show/" class="md-nav__link">
         
   
   
@@ -490,44 +457,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#description" class="md-nav__link">
-    <span class="md-ellipsis">
-      Description
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#example" class="md-nav__link">
-    <span class="md-ellipsis">
-      Example
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -833,20 +762,20 @@
 
 
 
-<h1 id="serial-show"><code>serial show</code></h1>
-<h4 id="description">Description</h4>
-<p>Displays the current serial configuration.</p>
-<h4 id="example">Example</h4>
-<pre><code>[admin@ssh-to-serial]&gt;serial show
-UART Config - Base：0x4000D000
- Clock：120000000 Hz
- Baud：115200
- Data Size：8
- Parity：N
- Stop Bits：1
- Flow Control：N
- Transmit Delay：0 ms
-Current configuration displayed.
+<h1 id="serial-delay-crlf"><code>serial delay-crlf</code></h1>
+<h3 id="description">Description</h3>
+<p>Configures the transmit delay, which can be from <code>0</code> to <code>86,400,000</code>.</p>
+<h3 id="example">Example</h3>
+<pre><code>[admin@ssh-to-serial]&gt;serial delay-crlf 300
+UART Config - Base: 0x4000D000
+ Clock: 120000000 Hz
+ Baud: 9600
+ Data Size: 5
+ Parity: N
+ Stop Bits: 1
+ Flow Control: N
+ Transmit Delay: 300 ms
+Transmit delay set to 300 milliseconds.
 </code></pre>
 
 

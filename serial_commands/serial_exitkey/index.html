@@ -8,13 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://h0fmn.github.io/gs3-documentation/serial_commands/serial_show/">
+        <link rel="canonical" href="https://h0fmn.github.io/gs3-documentation/serial_commands/serial_exitkey/">
       
       
-        <link rel="prev" href="../">
+        <link rel="prev" href="../serial_stopbits/">
       
       
-        <link rel="next" href="../serial_baudrate/">
+        <link rel="next" href="../../network_commands/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -22,7 +22,7 @@
     
     
       
-        <title>serial show - GLBB Japan | GS3SFP-232-GE</title>
+        <title>serial exitkey - GLBB Japan | GS3SFP-232-GE</title>
       
     
     
@@ -74,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#serial-show" class="md-skip">
+        <a href="#serial-exit-key" class="md-skip">
           Skip to content
         </a>
       
@@ -108,7 +108,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              serial show
+              serial exitkey
             
           </span>
         </div>
@@ -454,32 +454,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    serial show
-    
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../serial_show/" class="md-nav__link">
         
   
   
@@ -490,44 +468,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#description" class="md-nav__link">
-    <span class="md-ellipsis">
-      Description
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#example" class="md-nav__link">
-    <span class="md-ellipsis">
-      Example
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -629,10 +569,32 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../serial_exitkey/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    serial exitkey
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -643,6 +605,44 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#description" class="md-nav__link">
+    <span class="md-ellipsis">
+      Description
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example" class="md-nav__link">
+    <span class="md-ellipsis">
+      Example
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -833,20 +833,14 @@
 
 
 
-<h1 id="serial-show"><code>serial show</code></h1>
-<h4 id="description">Description</h4>
-<p>Displays the current serial configuration.</p>
-<h4 id="example">Example</h4>
-<pre><code>[admin@ssh-to-serial]&gt;serial show
-UART Config - Base：0x4000D000
- Clock：120000000 Hz
- Baud：115200
- Data Size：8
- Parity：N
- Stop Bits：1
- Flow Control：N
- Transmit Delay：0 ms
-Current configuration displayed.
+<h1 id="serial-exit-key"><code>serial exit-key</code></h1>
+<h3 id="description">Description</h3>
+<p>Configures the key combination used to exit the console session.</p>
+<h3 id="example">Example</h3>
+<pre><code>[admin@ssh-to-serial]&gt;serial exitkey
+Press the key you want to use as exit key...
+
+Exit key set to: CTRL+A
 </code></pre>
 
 
