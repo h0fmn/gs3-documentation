@@ -34,6 +34,7 @@ plugins:
   - search
   - i18n:
       default_language: en
+      default_language_only: true
       languages:
         - locale: en
           name: English
