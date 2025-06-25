@@ -2,364 +2,392 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/about/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/about/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/about/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/features/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/features/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/features/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/network_commands/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/network_commands/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/network_commands/"/>
     </url>
     <url>
+        <loc>https://h0fmn.github.io/gs3-documentation/en/network_commands/network_port/</loc>
+        <lastmod>2025-06-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/network_commands/network_port/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/network_commands/network_port/"/>
+    </url>
+    <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/network_commands/network_show/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/network_commands/network_show/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/network_commands/network_show/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/serial_commands/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_baudrate/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_baudrate/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_baudrate/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_datasize/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_datasize/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_datasize/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_delay-crlf/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_delay-crlf/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_delay-crlf/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_exitkey/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_exitkey/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_exitkey/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_parity/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_parity/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_parity/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_show/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_show/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_show/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_stopbits/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_stopbits/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_stopbits/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/about/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/about/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/about/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/features/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/features/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/features/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/network_commands/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/network_commands/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/network_commands/"/>
     </url>
     <url>
+        <loc>https://h0fmn.github.io/gs3-documentation/ja/network_commands/network_port/</loc>
+        <lastmod>2025-06-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/network_commands/network_port/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/network_commands/network_port/"/>
+    </url>
+    <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/network_commands/network_show/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/network_commands/network_show/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/network_commands/network_show/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/serial_commands/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_baudrate/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_baudrate/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_baudrate/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_datasize/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_datasize/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_datasize/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_delay-crlf/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_delay-crlf/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_delay-crlf/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_exitkey/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_exitkey/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_exitkey/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_parity/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_parity/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_parity/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_show/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_show/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_show/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_stopbits/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_stopbits/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_stopbits/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/about/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/about/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/about/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/features/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/features/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/features/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/network_commands/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/network_commands/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/network_commands/"/>
     </url>
     <url>
+        <loc>https://h0fmn.github.io/gs3-documentation/ja/en/network_commands/network_port/</loc>
+        <lastmod>2025-06-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/network_commands/network_port/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/network_commands/network_port/"/>
+    </url>
+    <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/network_commands/network_show/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/network_commands/network_show/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/network_commands/network_show/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_baudrate/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_baudrate/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_baudrate/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_datasize/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_datasize/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_datasize/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_delay-crlf/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_delay-crlf/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_delay-crlf/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_exitkey/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_exitkey/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_exitkey/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_parity/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_parity/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_parity/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_show/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_show/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_show/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_stopbits/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/en/serial_commands/serial_stopbits/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/en/serial_commands/serial_stopbits/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/about/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/about/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/about/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/features/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/features/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/features/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/network_commands/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/network_commands/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/network_commands/"/>
     </url>
     <url>
+        <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/network_commands/network_port/</loc>
+        <lastmod>2025-06-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/network_commands/network_port/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/network_commands/network_port/"/>
+    </url>
+    <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/network_commands/network_show/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/network_commands/network_show/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/network_commands/network_show/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_baudrate/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_baudrate/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_baudrate/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_datasize/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_datasize/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_datasize/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_delay-crlf/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_delay-crlf/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_delay-crlf/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_exitkey/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_exitkey/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_exitkey/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_parity/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_parity/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_parity/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_show/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_show/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_show/"/>
     </url>
     <url>
         <loc>https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_stopbits/</loc>
-        <lastmod>2025-06-24</lastmod>
+        <lastmod>2025-06-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://h0fmn.github.io/gs3-documentation/ja/ja/serial_commands/serial_stopbits/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://h0fmn.github.io/gs3-documentation/ja/serial_commands/serial_stopbits/"/>
