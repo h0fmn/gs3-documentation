@@ -12,7 +12,6 @@ theme:
     - content.code.annotate
     - navigation.instant
     - palette.toggle
-    - i18n
 
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -29,21 +28,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-
-site_name: GLBB Japan | GS3SFP-232-GE
-site_url: https://h0fmn.github.io/gs3-documentation
-
-theme:
-  name: material
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - search.highlight
-    - search.suggest
-    - content.code.copy
-    - content.code.annotate
-    - navigation.instant
-    - palette.toggle
 
 plugins:
   - search
