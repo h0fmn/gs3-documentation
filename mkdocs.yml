@@ -30,47 +30,37 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+site_name: GLBB Japan | GS3SFP-232-GE
+site_url: https://h0fmn.github.io/gs3-documentation
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.code.annotate
+    - navigation.instant
+    - palette.toggle
+
 plugins:
   - search
-  - i18n:
-      default_language: en
-      default_language_only: true
-      languages:
-        - locale: en
-          name: English
-          default: true
-          build: true
-          nav:
-            - Home: en/index.md
-            - Key Features: en/features.md
-            - Serial Commands:
-                - Overview: en/serial_commands/index.md
-                - serial show: en/serial_commands/serial_show.md
-                - serial baudrate: en/serial_commands/serial_baudrate.md
-                - serial datasize: en/serial_commands/serial_datasize.md
-                - serial parity: en/serial_commands/serial_parity.md
-                - serial stopbits: en/serial_commands/serial_stopbits.md
-                - serial exitkey: en/serial_commands/serial_exitkey.md
-            - Network Commands:
-                - Overview: en/network_commands/index.md
-                - network show: en/network_commands/network_show.md
-            - About: en/about.md
 
-        - locale: ja
-          name: 日本語
-          build: true
-          nav:
-            - ホーム: ja/index.md
-            - 主な機能: ja/features.md
-            - シリアルコマンド:
-                - 概要: ja/serial_commands/index.md
-                - serial show: ja/serial_commands/serial_show.md
-                - serial baudrate: ja/serial_commands/serial_baudrate.md
-                - serial datasize: ja/serial_commands/serial_datasize.md
-                - serial parity: ja/serial_commands/serial_parity.md
-                - serial stopbits: ja/serial_commands/serial_stopbits.md
-                - serial exitkey: ja/serial_commands/serial_exitkey.md
-            - ネットワークコマンド:
-                - 概要: ja/network_commands/index.md
-                - network show: ja/network_commands/network_show.md
-            - について: ja/about.md
+nav:
+  - Home: index.md
+  - Key Features: features.md
+  - Serial Commands:
+      - Overview: serial_commands/index.md
+      - serial show: serial_commands/serial_show.md
+      - serial baudrate: serial_commands/serial_baudrate.md
+      - serial datasize: serial_commands/serial_datasize.md
+      - serial parity: serial_commands/serial_parity.md
+      - serial stopbits: serial_commands/serial_stopbits.md
+      - serial exitkey: serial_commands/serial_exitkey.md
+  - Network Commands:
+      - Overview: network_commands/index.md
+      - network show: network_commands/network_show.md
+      - network port: network_commands/network_port.md
+  - About: about.md
