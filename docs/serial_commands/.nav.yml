@@ -1,0 +1,9 @@
+title: Serial Commands 
+nav: 
+  - index.md 
+  - serial_show.md
+  - serial_baudrate.md
+  - serial_datasize.md
+  - serial_parity.md
+  - serial_stopbits.md
+  - serial_exitkey.md

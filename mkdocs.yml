@@ -5,7 +5,6 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.sections
     - search.highlight
     - search.suggest
     - content.code.copy
@@ -29,22 +28,37 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+  markdown_extensions:
+  # Enables tables
+  - tables
+  # Enables admonitions
+  - def_list
+  - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.betterem
+  # Enables emoji shortcodes like :+1: or :sunglasses:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      pygments_lang_class: true
+      auto_title: true
+      linenums: true
+      linenums_style: pymdownx-inline
+      anchor_linenums: true
+      line_spans: __span
+  - toc:
+      toc_depth: 3
+
 plugins:
   - search
-
-nav:
-  - Home: index.md
-  - Key Features: features.md
-  - Serial Commands:
-      - Overview: serial_commands/index.md
-      - serial show: serial_commands/serial_show.md
-      - serial baudrate: serial_commands/serial_baudrate.md
-      - serial datasize: serial_commands/serial_datasize.md
-      - serial parity: serial_commands/serial_parity.md
-      - serial stopbits: serial_commands/serial_stopbits.md
-      - serial exitkey: serial_commands/serial_exitkey.md
-  - Network Commands:
-      - Overview: network_commands/index.md
-      - network show: network_commands/network_show.md
-      - network port: network_commands/network_port.md
-  - About: about.md
+  - awesome-nav

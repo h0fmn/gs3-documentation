@@ -1,9 +1,9 @@
 # `serial show`
 
-#### Description
+## Description
 Displays the current serial configuration.
 
-#### Example
+## Example
 ```
 [admin@ssh-to-serial]>serial show
 UART Config - Base：0x4000D000

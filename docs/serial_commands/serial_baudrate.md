@@ -1,9 +1,9 @@
 # `serial baudrate`
 
-### Description
+## Description
 Configures the baud rate. The default is set to `115200`.
 
-### Example
+## Example
 ```
 [admin@ssh -to -serial]>serial baudrate 9600
 UART Config - Base: 0x4000D000

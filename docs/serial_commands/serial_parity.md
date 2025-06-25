@@ -1,9 +1,9 @@
 # `serial parity`
 
-### Description 
+## Description 
 Configures the parity bit to `none`, `odd`, or `even`.
 
-### Example 
+## Example 
 ```
 [admin@ssh-to-serial]>serial parity odd
 UART Config - Base: 0x4000D000

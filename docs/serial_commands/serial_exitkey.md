@@ -1,9 +1,9 @@
 # `serial exit-key`
 
-### Description
+## Description
 Configures the key combination used to exit the console session.
 
-### Example
+## Example
 ```
 [admin@ssh-to-serial]>serial exitkey
 Press the key you want to use as exit key...

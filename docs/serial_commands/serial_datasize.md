@@ -1,9 +1,9 @@
 # `serial datasize`
 
-### Description
+## Description
 Configures the data size, with a range of `5` to `8` bits. 
 
-### Example 
+## Example 
 ```
 [admin@ssh-to-serial]>serial datasize 5
 UART Config - Base: 0x4000D000

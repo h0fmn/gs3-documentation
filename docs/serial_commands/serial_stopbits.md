@@ -1,9 +1,9 @@
 # `serial stopbits`
 
-### Description 
+## Description 
 Configures the number of stop bits (either `1` or `2`).
 
-### Example 
+## Example 
 ```
 [admin@ssh-to-serial]>serial stopbits 1
 UART Config - Base: 0x4000D000

@@ -1,9 +1,9 @@
 # `serial delay-crlf`
 
-### Description
+## Description
 Configures the transmit delay, which can be from `0` to `86,400,000`.
 
-### Example
+## Example
 ```
 [admin@ssh-to-serial]>serial delay-crlf 300
 UART Config - Base: 0x4000D000
