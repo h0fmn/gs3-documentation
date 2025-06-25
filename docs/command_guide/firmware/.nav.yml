@@ -1,0 +1,7 @@
+title: Firnware Commands
+nav: 
+  - index.md 
+  - firmware_version.md
+  - firmware_upgrade.md
+  - firmware_server.md
+  - reset_defaults.md

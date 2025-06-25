@@ -1,23 +1,9 @@
 nav:
   - Home: index.md
-  - Serial Commands: serial_commands
-  - Network Commands: network_commands
+  - Command Reference: command_guide
+  # - Serial Commands: serial_commands
+  # - Network Commands: network_commands
+  # - Security Management: security_management
+  # - Firmware Commands: firmware
+  # - Serial Phrase Locator: serial_phrase_locator
   - About: about.md
-
-  # - Serial Commands:
-  #     - Overview: serial_commands/index.md
-  #     - serial show: serial_commands/serial_show.md
-  #     - serial baudrate: serial_commands/serial_baudrate.md
-  #     - serial datasize: serial_commands/serial_datasize.md
-  #     - serial parity: serial_commands/serial_parity.md
-  #     - serial stopbits: serial_commands/serial_stopbits.md
-  #     - serial exitkey: serial_commands/serial_exitkey.md
-
-  # - Network Commands:
-  #     - network show: network_commands/network_show.md
-  #     - network port: network_commands/network_port.md
-
-  # - Security Management:
-  #     - Overview: security_management/index.md
-
-  # - About: about.md
