@@ -9,51 +9,83 @@
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/network_commands/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/network_commands/network_port/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/network_commands/network_show/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/firmware_server/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/network_commands/network_timeout/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/firmware_upgrade/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/firmware_version/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/serial_baudrate/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/reset_defaults/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/serial_datasize/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/network_commands/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/serial_delay-crlf/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/network_commands/network_port/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/serial_exitkey/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/network_commands/network_show/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/serial_parity/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/network_commands/network_timeout/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/serial_show/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/security_management/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/serial_commands/serial_stopbits/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_baudrate/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_datasize/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_delay-crlf/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_exitkey/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_parity/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_show/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_stopbits/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_phrase_locator/</loc>
          <lastmod>2025-06-25</lastmod>
     </url>
 </urlset>
