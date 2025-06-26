@@ -1,9 +1,5 @@
 nav:
   - Home: index.md
-  - Command Reference: command_guide
-  # - Serial Commands: serial_commands
-  # - Network Commands: network_commands
-  # - Security Management: security_management
-  # - Firmware Commands: firmware
-  # - Serial Phrase Locator: serial_phrase_locator
+  - FAQs: faq
+  - User Guide: user_guide
   - About: about.md

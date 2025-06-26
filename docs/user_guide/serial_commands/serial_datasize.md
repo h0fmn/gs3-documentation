@@ -1,4 +1,4 @@
-# `serial datasize`
+# `serial datasize <bits>`
 
 ## Description
 Configures the data size, with a range of `5` to `8` bits. 

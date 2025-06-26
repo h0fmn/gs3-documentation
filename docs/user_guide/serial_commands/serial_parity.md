@@ -1,4 +1,4 @@
-# `serial parity`
+# `serial parity <none/odd/even>`
 
 ## Description 
 Configures the parity bit to `none`, `odd`, or `even`.

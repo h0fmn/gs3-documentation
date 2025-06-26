@@ -1,4 +1,4 @@
-# `serial stopbits`
+# `serial stopbits <bits>`
 
 ## Description 
 Configures the number of stop bits (either `1` or `2`).

@@ -1,0 +1,11 @@
+title: Network Commands
+nav: 
+  - index.md 
+  - network_show.md
+  - network_ipv4.md
+  - network_ipv6.md
+  - network_port.md
+  - network_timeout.md 
+  - network_hostname.md
+  - network_ntp.md
+  - network_syslog.md

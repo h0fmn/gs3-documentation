@@ -1,4 +1,4 @@
-# `serial delay-crlf`
+# `serial delay-crlf <0000>`
 
 ## Description
 Configures the transmit delay, which can be from `0` to `86,400,000`.

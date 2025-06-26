@@ -1,4 +1,4 @@
-# `serial baudrate`
+# `serial baudrate <rate>`
 
 ## Description
 Configures the baud rate. The default is set to `115200`.
