@@ -2,7 +2,7 @@
 title: Overview
 ---
 
-📝 This is the command reference for the `GS3SFP-232-GE`.
+📝 This is the user guide for the **GS3SFP-232-GE**.
 
 The commands are separated into these sections:
 

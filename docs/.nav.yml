@@ -1,6 +1,7 @@
 nav:
   - Home: index.md
   - FAQs: faq
+  - Features & Capabilities: features
   - User Guide: 
     - Overview: user_guide/index.md
     - Serial Commands: user_guide/serial_commands
