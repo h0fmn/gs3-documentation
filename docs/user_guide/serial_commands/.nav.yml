@@ -1,6 +1,7 @@
 title: Serial Commands 
 nav: 
   - index.md 
+  - serial_connect.md
   - serial_show.md
   - serial_baudrate.md
   - serial_datasize.md

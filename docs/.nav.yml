@@ -1,5 +1,11 @@
 nav:
   - Home: index.md
   - FAQs: faq
-  - User Guide: user_guide
+  - User Guide: 
+    - Overview: user_guide/index.md
+    - Serial Commands: user_guide/serial_commands
+    - Network Commands: user_guide/network_commands
+    - Security Management: user_guide/security_management
+    - Firmware Commands: user_guide/firmware_commands
+    - Serial Phrase Locator: user_guide/serial_phrase_locator
   - About: about.md
