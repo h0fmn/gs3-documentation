@@ -2,6 +2,7 @@ __root__:
   - Home: index.md
   - FAQs: faq
   - Features & Capabilities: features
+  - Quick Start Guide: quick_start_guide/index.md
   - User Guide: 
     - Overview: user_guide/index.md
     - Serial Commands: user_guide/serial_commands
