@@ -1,5 +1,5 @@
 title: Serial Phrase Locator Commands
-nav: 
+__root__: 
   - index.md 
   - keyphrase_add.md 
   - keyphrase_del.md 

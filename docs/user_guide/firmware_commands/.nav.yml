@@ -1,5 +1,5 @@
 title: Firnware Commands
-nav: 
+__root__: 
   - index.md 
   - firmware_version.md
   - firmware_upgrade.md

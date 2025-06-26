@@ -1,5 +1,5 @@
 title: Serial Commands 
-nav: 
+__root__: 
   - index.md 
   - serial_connect.md
   - serial_show.md

@@ -1,4 +1,4 @@
-nav:
+__root__:
   - Home: index.md
   - FAQs: faq
   - Features & Capabilities: features
