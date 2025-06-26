@@ -2,90 +2,170 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://h0fmn.github.io/gs3-documentation/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
          <loc>https://h0fmn.github.io/gs3-documentation/about/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/faq/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/firmware_server/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/firmware_upgrade/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/firmware_server/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/firmware_version/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/firmware_upgrade/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/firmware/reset_defaults/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/firmware_version/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/network_commands/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/reset_defaults/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/network_commands/network_port/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/network_commands/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/network_commands/network_show/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/network_commands/network_hostname/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/network_commands/network_timeout/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/network_commands/network_ipv4/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/security_management/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/network_commands/network_ipv6/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/network_commands/network_ntp/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_baudrate/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/network_commands/network_port/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_datasize/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/network_commands/network_show/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_delay-crlf/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/network_commands/network_syslog/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_exitkey/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/network_commands/network_timeout/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_parity/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_show/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/acl_del/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_commands/serial_stopbits/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/acl_list/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/command_guide/serial_phrase_locator/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/acl_set/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/session_kill/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/session_list/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/ssh_kex-sha1/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/ssh_renewkeys/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/user_add/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/user_change/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/user_delete/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/security_management/user_list/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/serial_baudrate/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/serial_datasize/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/serial_delay-crlf/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/serial_exitkey/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/serial_parity/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/serial_show/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/serial_stopbits/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_phrase_locator/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_phrase_locator/keyphrase_add/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_phrase_locator/keyphrase_del/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_phrase_locator/keyphrase_list/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
 </urlset>
