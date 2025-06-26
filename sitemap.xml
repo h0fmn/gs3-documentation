@@ -17,23 +17,23 @@
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware_commands/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/firmware_server/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware_commands/firmware_server/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/firmware_upgrade/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware_commands/firmware_upgrade/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/firmware_version/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware_commands/firmware_version/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware/reset_defaults/</loc>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/firmware_commands/reset_defaults/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
@@ -126,6 +126,10 @@
     </url>
     <url>
          <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/serial_baudrate/</loc>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://h0fmn.github.io/gs3-documentation/user_guide/serial_commands/serial_connect/</loc>
          <lastmod>2025-06-26</lastmod>
     </url>
     <url>
