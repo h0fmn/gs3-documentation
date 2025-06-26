@@ -1,2 +1,2 @@
 # FAQs
-🚧 This page is under Construction. 🚧
+🚧 This page is under construction. 🚧
